@@ -319,7 +319,8 @@ function App() {
         <div className="mb-8 text-center">
           <button
             onClick={handleCalculate}
-            className="bg-green-600 hover:bg-green-700 text-white font-semibold py-3 px-8 rounded-lg shadow-md hover:shadow-lg transform transition-all duration-150 ease-in-out focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-opacity-75 active:scale-95 text-xl md:text-2xl"
+            className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-4 px-10 rounded-lg shadow-md hover:shadow-lg transform transition-all duration-150 ease-in-out focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-75 active:scale-95 text-2xl md:text-3xl"
+            aria-label="Oblicz składniki potrzebne do wypieków"
           >
             Oblicz Składniki
           </button>

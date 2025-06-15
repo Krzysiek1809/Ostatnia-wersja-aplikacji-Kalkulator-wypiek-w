@@ -24,3 +24,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Styling with Tailwind CSS.
 - `changelog.md` file to track project changes.
 - Footer with copyright information.
+
+### Changed
+- Updated the "Oblicz Składniki" button: increased size by approximately 20% and changed color to blue.
